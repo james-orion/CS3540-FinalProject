@@ -3,5 +3,5 @@
 ## Procedure
 - Download jupyter notebook and zip files of images.
 - Unzip image folders and place in same directory.
-  - For use on Google colab, you can add code blocks to mount the drive and add path variables.
-- Run code blocks up through SVM results (do not run code blocks below header marking off attempts to use CNN)
+  - For use on Google colab, make sure paths are correct and run additional code blocks to mount drive.
+- Run all other code blocks to train and test Logistic Regression, SVM, and CNN models.
